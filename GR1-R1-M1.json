@@ -1,0 +1,65 @@
+{
+	"matchid": "",
+	"num_maps": 1,
+	"players_per_team": 1,
+	"min_players_to_ready": 1,
+	"min_spectators_to_ready": 0,
+	"skip_veto": false,
+	"veto_first": "team1",
+	"side_type": "standard",
+
+	"spectators": {
+		"players":
+		[
+			
+		]
+	},
+
+	"maplist":
+	[
+		"de_vertigo",
+		"de_dust2",
+		"de_inferno",
+		"de_mirage",
+		"de_nuke",
+		"de_overpass",
+		"de_train"
+	],
+
+	"favored_percentage_team1": 65,
+	"favored_percentage_text": "HLTV Bets",
+
+	"team1": {
+		"name": "Non",
+		"tag": "",
+		"flag": "FR",
+		"logo": "",
+		"players":
+		[
+			"STEAM_0:1:201222856",
+			"STEAM_0:0:53613474",
+			"STEAM_0:0:121530668",
+			"STEAM_0:1:29151474",
+			"STEAM_0:0:87023146",
+		]
+	},
+
+	"team2": {
+		"name": "Oui",
+		"tag": "",
+		"flag": "FR",
+		"logo": "",
+		"players":
+		[
+			"STEAM_0:0:177162238",
+			"STEAM_0:0:545116161",
+			"STEAM_0:0:533064721",
+			"STEAM_0:0:232042804",
+			"STEAM_0:1:189623507",
+		]
+	},
+
+	"cvars": {
+		"hostname": "Match server #1"
+	}
+}
