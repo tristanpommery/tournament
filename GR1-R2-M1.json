@@ -30,30 +30,31 @@
 	"favored_percentage_text": "CESI.LANxDedi-Games",
 
 	"team1": {
-		"name": "",
-		"flag": "",
+		"name": "Partisans Du Moindre Effort",
+		"flag": "FR",
 		"logo": "",
 		"players":
 		[
-			"",
-			"",
-			"",
-			"",
-			""
+			"STEAM_0:0:99031807",
+			"STEAM_0:0:74348013",
+			"STEAM_0:1:201222856",
+			"STEAM_0:0:53613474",
+			"STEAM_0:0:53613474"
 		]
 	},
 
 	"team2": {
-		"name": "",
-		"flag": "",
+		"name": "Mohawks",
+		"flag": "FR",
 		"logo": "",
 		"players":
 		[
-			"",
-			"",
-			"",
-			"",
-			""
+			"STEAM_0:0:539798194",
+			"STEAM_0:0:32880540",
+			"STEAM_0:0:58992538",
+			"STEAM_0:1:185944126",
+			"STEAM_0:0:93220786",
+			"STEAM_1:1:63102767"
 		]
 	},
 

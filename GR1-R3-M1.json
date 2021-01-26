@@ -30,30 +30,30 @@
 	"favored_percentage_text": "CESI.LANxDedi-Games",
 
 	"team1": {
-		"name": "",
-		"flag": "",
+		"name": "Partisans Du Moindre Effort",
+		"flag": "FR",
 		"logo": "",
 		"players":
 		[
-			"",
-			"",
-			"",
-			"",
-			""
+			"STEAM_0:0:99031807",
+			"STEAM_0:0:74348013",
+			"STEAM_0:1:201222856",
+			"STEAM_0:0:53613474",
+			"STEAM_0:0:53613474"
 		]
 	},
 
 	"team2": {
-		"name": "",
-		"flag": "",
+		"name": "URSUS E-SPORT",
+		"flag": "FR",
 		"logo": "",
 		"players":
 		[
-			"",
-			"",
-			"",
-			"",
-			""
+			"STEAM_0:0:179628336",
+			"STEAM_0:0:196892633",
+			"STEAM_0:0:190121691",
+			"STEAM_0:0:206866892",
+			"STEAM_0:1:198275192"
 		]
 	},
 

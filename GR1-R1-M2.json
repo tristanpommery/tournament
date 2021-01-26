@@ -30,30 +30,31 @@
 	"favored_percentage_text": "CESI.LANxDedi-Games",
 
 	"team1": {
-		"name": "",
-		"flag": "",
+		"name": "URSUS E-SPORT",
+		"flag": "FR",
 		"logo": "",
 		"players":
 		[
-			"",
-			"",
-			"",
-			"",
-			""
+			"STEAM_0:0:179628336",
+			"STEAM_0:0:196892633",
+			"STEAM_0:0:190121691",
+			"STEAM_0:0:206866892",
+			"STEAM_0:1:198275192"
 		]
 	},
 
 	"team2": {
-		"name": "",
-		"flag": "",
+		"name": "Mohawks",
+		"flag": "FR",
 		"logo": "",
 		"players":
 		[
-			"",
-			"",
-			"",
-			"",
-			""
+			"STEAM_0:0:539798194",
+			"STEAM_0:0:32880540",
+			"STEAM_0:0:58992538",
+			"STEAM_0:1:185944126",
+			"STEAM_0:0:93220786",
+			"STEAM_1:1:63102767"
 		]
 	},
 
