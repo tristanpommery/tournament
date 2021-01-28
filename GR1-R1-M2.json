@@ -1,7 +1,7 @@
 {
 	"matchid": "GR1-R1-M2",
 	"num_maps": 1,
-	"players_per_team": 5,
+	"players_per_team": 7,
 	"min_players_to_ready": 5,
 	"min_spectators_to_ready": 0,
 	"skip_veto": false,
