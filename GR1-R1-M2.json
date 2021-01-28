@@ -37,6 +37,7 @@
 	"team1": {
 		"name": "URSUS E-SPORT",
 		"flag": "FR",
+		"tag": "",
 		"logo": "",
 		"players":
 		[
@@ -51,6 +52,7 @@
 	"team2": {
 		"name": "Mohawks",
 		"flag": "FR",
+		"tag": "",
 		"logo": "",
 		"players":
 		[
